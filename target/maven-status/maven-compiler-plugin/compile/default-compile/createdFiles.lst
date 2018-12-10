@@ -1,0 +1,5 @@
+com\amazon\util\TestUtil.class
+com\amazon\base\TestBase.class
+com\amazon\extentreportlistener\ExtentReporterNG.class
+com\amazon\pages\HomePage.class
+com\amazon\util\ScreenShotUtil.class
